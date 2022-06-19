@@ -11,3 +11,5 @@ In the project directory, you can run:
 
 Runs the services in the development mode.\
 Open [http://localhost:7000](http://localhost:7000) to view it in your browser.
+
+Attempted on CRUD in Backend with JSON Response
